@@ -10,7 +10,7 @@ p,h1,h2,h3,h4,h5,h6,a,ul,ol,li,img,span,dl,dt,dd,th,tr,td,label{margin:0;padding
 .header ul li a{color:#fff;}
 /*内容样式*/
 .content{margin:0 20px;}
-.box{border:2px solid #cbcbcb;background: #fff;padding:30px 35px;margin-top:20px;}
+.box{border:2px solid #cbcbcb;background: #fff;padding:30px 35px;margin-top:20px;box-shadow: 2px 2px 5px #888888;}
 h2{font-size:18px;font-weight:bold; }
 h3{ffont-weight:bold;margin:20px 0 10px 0;}
 .p_time{font-size: 10px;}
